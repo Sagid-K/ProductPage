@@ -1,0 +1,55 @@
+.google-play {
+  background-color: #030406;
+  height: 40px;
+  width: 110px;
+}
+
+.google-play .overlap-group-5 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cd2f0cc7b22e6f3416ad61db89f159b9/img/png-transparent-google-play-store-logo-google-play-app-store-and-2@2x.png);
+  background-size: 100% 100%;
+  height: 31px;
+  left: 2px;
+  position: relative;
+  top: 4px;
+  width: 105px;
+}
+
+.google-play .overlap-3 {
+  height: 5px;
+  left: 95px;
+  position: absolute;
+  top: 17px;
+  width: 3px;
+}
+
+.google-play .vector-2 {
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.google-play .vector-3 {
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.google-play .vector-4 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.google-play .vector-5 {
+  height: 1px;
+  left: 92px;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}

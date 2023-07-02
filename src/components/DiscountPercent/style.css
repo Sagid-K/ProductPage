@@ -1,0 +1,24 @@
+.discount-percent {
+  align-items: center;
+  background-color: #db4444;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 4px 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.discount-percent .text-wrapper {
+  color: #f9f9f9;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

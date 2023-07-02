@@ -1,0 +1,15 @@
+.qr-code {
+  background-color: #000000;
+  height: 80px;
+  position: relative;
+  width: 80px;
+}
+
+.qr-code .qrcode {
+  height: 80px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}

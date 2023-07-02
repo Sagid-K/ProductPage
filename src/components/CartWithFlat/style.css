@@ -1,0 +1,232 @@
+.cart-with-flat {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.cart-with-flat .frame-8 {
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  height: 250px;
+  min-width: 270px;
+  overflow: hidden;
+  position: relative;
+}
+
+.cart-with-flat .overlap-group-3 {
+  left: 12px;
+  top: 12px;
+  width: 246px;
+}
+
+.cart-with-flat .discount-percent-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.cart-with-flat .frame-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 212px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.cart-with-flat .instance-node {
+  min-width: 34px !important;
+  width: unset !important;
+}
+
+.cart-with-flat .ak-wrapper {
+  height: 180px;
+  left: 28px;
+  position: absolute;
+  width: 190px;
+}
+
+.cart-with-flat .ak {
+  position: absolute;
+}
+
+.cart-with-flat .add-to-cart-wrapper {
+  background-color: #000000;
+  border-radius: 0px 0px 4px 4px;
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 209px;
+  width: 270px;
+}
+
+.cart-with-flat .add-to-cart {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.cart-with-flat .frame-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.cart-with-flat .HAVIT-HV-gamepad {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cart-with-flat .frame-11 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.cart-with-flat .element-2 {
+  color: #db4444;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cart-with-flat .element-3 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  opacity: 0.5;
+  position: relative;
+  text-decoration: line-through;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cart-with-flat .frame-12 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.cart-with-flat .instance-node-2 {
+  left: unset !important;
+  min-width: 100px !important;
+  position: relative !important;
+  top: unset !important;
+  width: unset !important;
+}
+
+.cart-with-flat .element-4 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  opacity: 0.5;
+  position: relative;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.cart-with-flat .variant-3 {
+  height: 203px;
+  position: relative;
+}
+
+.cart-with-flat .variant-4 {
+  height: 203px;
+  position: relative;
+}
+
+.cart-with-flat .cart-with-discount-hover {
+  height: 183px;
+  position: absolute;
+}
+
+.cart-with-flat .cart-with-discount {
+  height: 203px;
+  position: relative;
+}
+
+.cart-with-flat .overlap-group-3.variant-3 .ak-wrapper {
+  top: 23px;
+}
+
+.cart-with-flat .overlap-group-3.variant-4 .ak-wrapper {
+  top: 23px;
+}
+
+.cart-with-flat .overlap-group-3.cart-with-discount-hover .ak-wrapper {
+  top: 3px;
+}
+
+.cart-with-flat .overlap-group-3.cart-with-discount .ak-wrapper {
+  top: 23px;
+}
+
+.cart-with-flat .overlap-group-3.variant-3 .ak {
+  height: 129px;
+  left: 10px;
+  top: 26px;
+  width: 170px;
+}
+
+.cart-with-flat .overlap-group-3.variant-4 .ak {
+  height: 180px;
+  left: 41px;
+  top: 0;
+  width: 107px;
+}
+
+.cart-with-flat .overlap-group-3.cart-with-discount-hover .ak {
+  height: 101px;
+  left: 0;
+  top: 40px;
+  width: 190px;
+}
+
+.cart-with-flat .overlap-group-3.cart-with-discount .ak {
+  height: 152px;
+  left: 9px;
+  top: 14px;
+  width: 172px;
+}

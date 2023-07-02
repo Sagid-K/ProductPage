@@ -1,0 +1,237 @@
+.footer {
+  background-color: #000000;
+  height: 440px;
+  position: relative;
+  width: 1440px;
+}
+
+.footer .frame-18 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 0;
+  opacity: 0.4;
+  position: absolute;
+  top: 376px;
+  width: fit-content;
+}
+
+.footer .under-line-instance {
+  min-width: 1440px !important;
+  width: unset !important;
+}
+
+.footer .under-line-2 {
+  width: 1440px !important;
+}
+
+.footer .frame-wrapper {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  opacity: 0.6;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .frame-19 {
+  align-items: center;
+  display: flex;
+  gap: 6px;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .icon-copyright {
+  height: 20px !important;
+  min-width: 20px !important;
+  position: relative !important;
+}
+
+.footer .copyright-rimel {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .frame-20 {
+  align-items: flex-start;
+  display: flex;
+  gap: 87px;
+  justify-content: center;
+  left: 135px;
+  position: absolute;
+  top: 80px;
+  width: fit-content;
+}
+
+.footer .frame-21 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .frame-22 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .logo-2 {
+  min-width: 118px !important;
+  width: unset !important;
+}
+
+.footer .design-component-instance-node-2 {
+  color: #f9f9f9 !important;
+}
+
+.footer .subscribe {
+  color: #f9f9f9;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .text-wrapper-2 {
+  color: #f9f9f9;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .send-mail-instance {
+  border-color: #f9f9f9 !important;
+}
+
+.footer .text-wrapper-3 {
+  color: #f9f9f9;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .element-bijoy-sarani {
+  color: #f9f9f9;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  width: 175px;
+}
+
+.footer .text-wrapper-4 {
+  color: #f9f9f9;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .frame-23 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .save-with-app-new {
+  color: #f9f9f9;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  opacity: 0.7;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .frame-24 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .qr-code-instance {
+  min-width: 80px !important;
+  width: unset !important;
+}
+
+.footer .frame-25 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .google-play-instance {
+  min-width: 110px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.footer .app-store-instance {
+  min-width: 110px !important;
+  width: unset !important;
+}
+
+.footer .frame-26 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .icon-instance-node-2 {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}

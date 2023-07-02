@@ -1,0 +1,18 @@
+.logo {
+  height: 24px;
+  position: relative;
+  width: 118px;
+}
+
+.logo .exclusive {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}

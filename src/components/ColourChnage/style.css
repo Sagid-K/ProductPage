@@ -1,0 +1,49 @@
+.colour-chnage {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.colour-chnage .overlap-group-wrapper {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.colour-chnage .overlap-group-2 {
+  border-radius: 10px;
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.colour-chnage .ellipse-2 {
+  background-color: #a0bce0;
+  border-radius: 6px;
+  height: 12px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.colour-chnage .ellipse-3 {
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 10px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.colour-chnage .ellipse-4 {
+  background-color: #e07575;
+  border-radius: 10px;
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}

@@ -1,0 +1,18 @@
+.four-half-star {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.four-half-star .vector {
+  height: 14.3px;
+  min-width: 14.5px;
+  position: relative;
+}
+
+.four-half-star .star-half-filled {
+  height: 20px !important;
+  min-width: 20px !important;
+  position: relative !important;
+}

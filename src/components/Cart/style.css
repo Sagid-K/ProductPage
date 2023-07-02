@@ -1,0 +1,1669 @@
+.cart {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.cart .div-2 {
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  height: 250px;
+  min-width: 270px;
+  overflow: hidden;
+  position: relative;
+}
+
+.cart .overlap-2 {
+  background-color: #000000;
+  border-radius: 0px 0px 4px 4px;
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 209px;
+  width: 270px;
+}
+
+.cart .cart1-5 {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}
+
+.cart .add-to-cart-2 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cart .overlap-group-4 {
+  top: 12px;
+}
+
+.cart .frame-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.cart .instance-node-3 {
+  min-width: 34px !important;
+  width: unset !important;
+}
+
+.cart .instance-node-4 {
+  height: 24px !important;
+  left: 5px !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 24px !important;
+}
+
+.cart .new-button {
+  align-items: center;
+  background-color: #00ff66;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  left: 0;
+  padding: 4px 12px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.cart .NEW {
+  color: #f9f9f9;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cart .discount-percent-2 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.cart .frame-14 {
+  height: 180px;
+  position: absolute;
+  width: 190px;
+}
+
+.cart .element-cst {
+  position: absolute;
+}
+
+.cart .curology {
+  height: 159px;
+  left: 9px;
+  position: absolute;
+  top: 34px;
+  width: 172px;
+}
+
+.cart .frame-15 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.cart .gucci-duffle-bag {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cart .frame-16 {
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.cart .element-5 {
+  position: relative;
+  width: fit-content;
+}
+
+.cart .element-6 {
+  color: #db4444;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cart .element-7 {
+  position: relative;
+  width: fit-content;
+}
+
+.cart .instance-node-5 {
+  left: unset !important;
+  min-width: 100px !important;
+  position: relative !important;
+  top: unset !important;
+  width: unset !important;
+}
+
+.cart .three-star {
+  height: 20px;
+  min-width: 100px;
+  position: relative;
+}
+
+.cart .element-8 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  opacity: 0.5;
+  position: relative;
+  white-space: nowrap;
+}
+
+.cart .element-9 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  opacity: 0.5;
+  position: relative;
+  white-space: nowrap;
+}
+
+.cart .element-10 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  opacity: 0.5;
+  position: relative;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.cart .frame-17 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.cart .class-6 {
+  background-color: #fa1214 !important;
+}
+
+.cart .class-7 {
+  background-color: #eeff61 !important;
+}
+
+.cart .class-8 {
+  background-color: #000000 !important;
+}
+
+.cart .class-9 {
+  background-color: #184947 !important;
+}
+
+.cart .class-10 {
+  background-color: #db4444 !important;
+}
+
+.cart .product-bestselling-cooling-fan {
+  left: 85px;
+  position: relative;
+  top: 9px;
+}
+
+.cart .product-kids-car-with-color-choosing {
+  left: 85px;
+  position: relative;
+  top: 9px;
+}
+
+.cart .product-dog-food-no-discount {
+  left: 85px;
+  position: relative;
+  top: 9px;
+}
+
+.cart .product-jacket-with-wishlist {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  left: 84px;
+  position: relative;
+  top: 8px;
+  width: fit-content;
+}
+
+.cart .product-soccer-boat-color-choosing {
+  left: 85px;
+  position: relative;
+  top: 9px;
+}
+
+.cart .product-wishlist-cart-with-discount {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  left: 84px;
+  position: relative;
+  top: 8px;
+  width: fit-content;
+}
+
+.cart .product-just-for-your-cart-monitor {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  left: 85px;
+  position: relative;
+  top: 9px;
+  width: fit-content;
+}
+
+.cart .product-just-for-your-cart-bag {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  left: 85px;
+  position: relative;
+  top: 9px;
+  width: fit-content;
+}
+
+.cart .product-product-5 {
+  left: 85px;
+  position: relative;
+  top: 9px;
+}
+
+.cart .product-bestselling-guccibag {
+  left: 85px;
+  position: relative;
+  top: 9px;
+}
+
+.cart .product-dslr-camera-no-discount {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.cart .product-gaming-control-color-choosing {
+  left: 85px;
+  position: relative;
+  top: 9px;
+}
+
+.cart .product-gamepad-wishlist {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  left: 84px;
+  position: relative;
+  top: 8px;
+  width: fit-content;
+}
+
+.cart .product-bestselling-coat {
+  left: 85px;
+  position: relative;
+  top: 9px;
+}
+
+.cart .product-man-jacket-color-choosing {
+  left: 85px;
+  position: relative;
+  top: 9px;
+}
+
+.cart .product-cart {
+  left: 85px;
+  position: relative;
+  top: 9px;
+}
+
+.cart .product-just-for-your-cart-keyboard {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  left: 85px;
+  position: relative;
+  top: 9px;
+  width: fit-content;
+}
+
+.cart .product-just-for-your-cart-gamepad {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  left: 85px;
+  position: relative;
+  top: 9px;
+  width: fit-content;
+}
+
+.cart .product-cart-with-colour-chose {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.cart .product-bestselling-bookself {
+  left: 85px;
+  position: relative;
+  top: 9px;
+}
+
+.cart .product-beauty-product-no-discount {
+  left: 85px;
+  position: relative;
+  top: 9px;
+}
+
+.cart .product-wishlist-cart-with-no-discount {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  left: 84px;
+  position: relative;
+  top: 8px;
+  width: fit-content;
+}
+
+.cart .product-cart-hover {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 99px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.cart .product-laptop-no-discount {
+  left: 85px;
+  position: relative;
+  top: 9px;
+}
+
+.cart .product-cart-with-no-discount {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.cart .product-0-bestselling-cooling-fan {
+  height: 203px;
+  left: 40px;
+  position: relative;
+  width: 218px;
+}
+
+.cart .product-0-kids-car-with-color-choosing {
+  height: 203px;
+  left: 12px;
+  position: relative;
+  width: 246px;
+}
+
+.cart .product-0-dog-food-no-discount {
+  height: 203px;
+  left: 40px;
+  position: relative;
+  width: 218px;
+}
+
+.cart .product-0-jacket-with-wishlist {
+  height: 190px;
+  left: 40px;
+  position: absolute;
+  width: 218px;
+}
+
+.cart .product-0-soccer-boat-color-choosing {
+  height: 203px;
+  left: 40px;
+  position: relative;
+  width: 218px;
+}
+
+.cart .product-0-wishlist-cart-with-discount {
+  height: 183px;
+  left: 12px;
+  position: absolute;
+  width: 246px;
+}
+
+.cart .product-0-just-for-your-cart-monitor {
+  height: 190px;
+  left: 40px;
+  position: absolute;
+  width: 218px;
+}
+
+.cart .product-0-just-for-your-cart-bag {
+  height: 190px;
+  left: 12px;
+  position: absolute;
+  width: 246px;
+}
+
+.cart .product-0-product-5 {
+  height: 203px;
+  left: 12px;
+  position: relative;
+  width: 246px;
+}
+
+.cart .product-0-bestselling-guccibag {
+  height: 203px;
+  left: 40px;
+  position: relative;
+  width: 218px;
+}
+
+.cart .product-0-dslr-camera-no-discount {
+  height: 183px;
+  left: 36px;
+  position: absolute;
+  width: 222px;
+}
+
+.cart .product-0-gaming-control-color-choosing {
+  height: 203px;
+  left: 12px;
+  position: relative;
+  width: 246px;
+}
+
+.cart .product-0-gamepad-wishlist {
+  height: 190px;
+  left: 40px;
+  position: absolute;
+  width: 218px;
+}
+
+.cart .product-0-bestselling-coat {
+  height: 203px;
+  left: 40px;
+  position: relative;
+  width: 218px;
+}
+
+.cart .product-0-man-jacket-color-choosing {
+  height: 203px;
+  left: 40px;
+  position: relative;
+  width: 218px;
+}
+
+.cart .product-0-cart {
+  height: 203px;
+  left: 12px;
+  position: relative;
+  width: 246px;
+}
+
+.cart .product-0-just-for-your-cart-keyboard {
+  height: 190px;
+  left: 40px;
+  position: absolute;
+  width: 218px;
+}
+
+.cart .product-0-just-for-your-cart-gamepad {
+  height: 190px;
+  left: 12px;
+  position: absolute;
+  width: 246px;
+}
+
+.cart .product-0-cart-with-colour-chose {
+  height: 183px;
+  left: 12px;
+  position: absolute;
+  width: 246px;
+}
+
+.cart .product-0-bestselling-bookself {
+  height: 203px;
+  left: 40px;
+  position: relative;
+  width: 218px;
+}
+
+.cart .product-0-beauty-product-no-discount {
+  height: 203px;
+  left: 40px;
+  position: relative;
+  width: 218px;
+}
+
+.cart .product-0-wishlist-cart-with-no-discount {
+  height: 186px;
+  left: 40px;
+  position: absolute;
+  width: 218px;
+}
+
+.cart .product-0-cart-hover {
+  height: 183px;
+  left: 12px;
+  position: absolute;
+  width: 246px;
+}
+
+.cart .product-0-laptop-no-discount {
+  height: 203px;
+  left: 40px;
+  position: relative;
+  width: 218px;
+}
+
+.cart .product-0-cart-with-no-discount {
+  height: 183px;
+  left: 12px;
+  position: absolute;
+  width: 246px;
+}
+
+.cart .product-4-bestselling-cooling-fan {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-kids-car-with-color-choosing {
+  align-items: center;
+  gap: 8px;
+}
+
+.cart .product-4-dog-food-no-discount {
+  align-items: center;
+  gap: 8px;
+}
+
+.cart .product-4-jacket-with-wishlist {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-soccer-boat-color-choosing {
+  align-items: center;
+  gap: 8px;
+}
+
+.cart .product-4-wishlist-cart-with-discount {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-just-for-your-cart-monitor {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-just-for-your-cart-bag {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-product-5 {
+  align-items: center;
+  gap: 8px;
+}
+
+.cart .product-4-bestselling-guccibag {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-dslr-camera-no-discount {
+  align-items: center;
+  gap: 8px;
+}
+
+.cart .product-4-gaming-control-color-choosing {
+  align-items: center;
+  gap: 8px;
+}
+
+.cart .product-4-gamepad-wishlist {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-bestselling-coat {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-man-jacket-color-choosing {
+  align-items: center;
+  gap: 8px;
+}
+
+.cart .product-4-cart {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-just-for-your-cart-keyboard {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-just-for-your-cart-gamepad {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-cart-with-colour-chose {
+  align-items: center;
+  gap: 8px;
+}
+
+.cart .product-4-bestselling-bookself {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-beauty-product-no-discount {
+  align-items: center;
+  gap: 8px;
+}
+
+.cart .product-4-wishlist-cart-with-no-discount {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-cart-hover {
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.cart .product-4-laptop-no-discount {
+  align-items: center;
+  gap: 8px;
+}
+
+.cart .product-4-cart-with-no-discount {
+  align-items: center;
+  gap: 8px;
+}
+
+.cart .overlap-group-4.product-0-bestselling-cooling-fan .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-kids-car-with-color-choosing .frame-13 {
+  left: 212px;
+}
+
+.cart .overlap-group-4.product-0-dog-food-no-discount .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-jacket-with-wishlist .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-soccer-boat-color-choosing .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-wishlist-cart-with-discount .frame-13 {
+  left: 212px;
+}
+
+.cart .overlap-group-4.product-0-just-for-your-cart-monitor .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-just-for-your-cart-bag .frame-13 {
+  left: 212px;
+}
+
+.cart .overlap-group-4.product-0-product-5 .frame-13 {
+  left: 212px;
+}
+
+.cart .overlap-group-4.product-0-bestselling-guccibag .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-dslr-camera-no-discount .frame-13 {
+  left: 188px;
+}
+
+.cart .overlap-group-4.product-0-gaming-control-color-choosing .frame-13 {
+  left: 212px;
+}
+
+.cart .overlap-group-4.product-0-gamepad-wishlist .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-bestselling-coat .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-man-jacket-color-choosing .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-cart .frame-13 {
+  left: 212px;
+}
+
+.cart .overlap-group-4.product-0-just-for-your-cart-keyboard .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-just-for-your-cart-gamepad .frame-13 {
+  left: 212px;
+}
+
+.cart .overlap-group-4.product-0-cart-with-colour-chose .frame-13 {
+  left: 212px;
+}
+
+.cart .overlap-group-4.product-0-bestselling-bookself .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-beauty-product-no-discount .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-wishlist-cart-with-no-discount .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-cart-hover .frame-13 {
+  left: 212px;
+}
+
+.cart .overlap-group-4.product-0-laptop-no-discount .frame-13 {
+  left: 184px;
+}
+
+.cart .overlap-group-4.product-0-cart-with-no-discount .frame-13 {
+  left: 212px;
+}
+
+.cart .overlap-group-4.product-0-bestselling-cooling-fan .frame-14 {
+  left: 0;
+  top: 23px;
+}
+
+.cart .overlap-group-4.product-0-kids-car-with-color-choosing .frame-14 {
+  left: 28px;
+  top: 23px;
+}
+
+.cart .overlap-group-4.product-0-dog-food-no-discount .frame-14 {
+  left: 0;
+  top: 23px;
+}
+
+.cart .overlap-group-4.product-0-jacket-with-wishlist .frame-14 {
+  left: 0;
+  top: 10px;
+}
+
+.cart .overlap-group-4.product-0-soccer-boat-color-choosing .frame-14 {
+  left: 0;
+  top: 23px;
+}
+
+.cart .overlap-group-4.product-0-wishlist-cart-with-discount .frame-14 {
+  left: 28px;
+  top: 3px;
+}
+
+.cart .overlap-group-4.product-0-just-for-your-cart-monitor .frame-14 {
+  left: 0;
+  top: 10px;
+}
+
+.cart .overlap-group-4.product-0-just-for-your-cart-bag .frame-14 {
+  left: 28px;
+  top: 10px;
+}
+
+.cart .overlap-group-4.product-0-product-5 .frame-14 {
+  left: 28px;
+  top: 23px;
+}
+
+.cart .overlap-group-4.product-0-bestselling-guccibag .frame-14 {
+  left: 0;
+  top: 23px;
+}
+
+.cart .overlap-group-4.product-0-dslr-camera-no-discount .frame-14 {
+  left: 0;
+  top: 3px;
+}
+
+.cart .overlap-group-4.product-0-gaming-control-color-choosing .frame-14 {
+  left: 28px;
+  top: 23px;
+}
+
+.cart .overlap-group-4.product-0-gamepad-wishlist .frame-14 {
+  left: 0;
+  top: 10px;
+}
+
+.cart .overlap-group-4.product-0-bestselling-coat .frame-14 {
+  left: 0;
+  top: 23px;
+}
+
+.cart .overlap-group-4.product-0-man-jacket-color-choosing .frame-14 {
+  left: 0;
+  top: 23px;
+}
+
+.cart .overlap-group-4.product-0-cart .frame-14 {
+  left: 28px;
+  top: 23px;
+}
+
+.cart .overlap-group-4.product-0-just-for-your-cart-keyboard .frame-14 {
+  left: 0;
+  top: 10px;
+}
+
+.cart .overlap-group-4.product-0-just-for-your-cart-gamepad .frame-14 {
+  left: 28px;
+  top: 10px;
+}
+
+.cart .overlap-group-4.product-0-cart-with-colour-chose .frame-14 {
+  left: 28px;
+  top: 3px;
+}
+
+.cart .overlap-group-4.product-0-bestselling-bookself .frame-14 {
+  left: 0;
+  top: 23px;
+}
+
+.cart .overlap-group-4.product-0-beauty-product-no-discount .frame-14 {
+  left: 0;
+  top: 23px;
+}
+
+.cart .overlap-group-4.product-0-wishlist-cart-with-no-discount .frame-14 {
+  left: 0;
+  top: 6px;
+}
+
+.cart .overlap-group-4.product-0-cart-hover .frame-14 {
+  left: 28px;
+  top: 3px;
+}
+
+.cart .overlap-group-4.product-0-laptop-no-discount .frame-14 {
+  left: 0;
+  top: 23px;
+}
+
+.cart .overlap-group-4.product-0-cart-with-no-discount .frame-14 {
+  left: 28px;
+  top: 3px;
+}
+
+.cart .overlap-group-4.product-0-bestselling-cooling-fan .element-cst {
+  height: 95px;
+  left: 0;
+  top: 47px;
+  width: 190px;
+}
+
+.cart .overlap-group-4.product-0-kids-car-with-color-choosing .element-cst {
+  height: 133px;
+  left: 5px;
+  top: 24px;
+  width: 180px;
+}
+
+.cart .overlap-group-4.product-0-dog-food-no-discount .element-cst {
+  height: 180px;
+  left: 38px;
+  top: 0;
+  width: 115px;
+}
+
+.cart .overlap-group-4.product-0-jacket-with-wishlist .element-cst {
+  height: 176px;
+  left: 4px;
+  top: 2px;
+  width: 182px;
+}
+
+.cart .overlap-group-4.product-0-soccer-boat-color-choosing .element-cst {
+  height: 164px;
+  left: 2px;
+  top: 8px;
+  width: 186px;
+}
+
+.cart .overlap-group-4.product-0-wishlist-cart-with-discount .element-cst {
+  height: 129px;
+  left: 6px;
+  top: 26px;
+  width: 178px;
+}
+
+.cart .overlap-group-4.product-0-just-for-your-cart-monitor .element-cst {
+  height: 129px;
+  left: 10px;
+  top: 26px;
+  width: 170px;
+}
+
+.cart .overlap-group-4.product-0-just-for-your-cart-bag .element-cst {
+  height: 166px;
+  left: 16px;
+  top: 7px;
+  width: 158px;
+}
+
+.cart .overlap-group-4.product-0-product-5 .element-cst {
+  height: 129px;
+  left: 6px;
+  top: 26px;
+  width: 178px;
+}
+
+.cart .overlap-group-4.product-0-bestselling-guccibag .element-cst {
+  height: 129px;
+  left: 6px;
+  top: 26px;
+  width: 178px;
+}
+
+.cart .overlap-group-4.product-0-dslr-camera-no-discount .element-cst {
+  height: 163px;
+  left: 22px;
+  top: 8px;
+  width: 146px;
+}
+
+.cart .overlap-group-4.product-0-gaming-control-color-choosing .element-cst {
+  height: 150px;
+  left: 6px;
+  top: 15px;
+  width: 178px;
+}
+
+.cart .overlap-group-4.product-0-gamepad-wishlist .element-cst {
+  height: 150px;
+  left: 6px;
+  top: 15px;
+  width: 178px;
+}
+
+.cart .overlap-group-4.product-0-bestselling-coat .element-cst {
+  height: 146px;
+  left: 25px;
+  top: 17px;
+  width: 140px;
+}
+
+.cart .overlap-group-4.product-0-man-jacket-color-choosing .element-cst {
+  height: 176px;
+  left: 4px;
+  top: 2px;
+  width: 182px;
+}
+
+.cart .overlap-group-4.product-0-cart .element-cst {
+  height: 146px;
+  left: 25px;
+  top: 17px;
+  width: 140px;
+}
+
+.cart .overlap-group-4.product-0-just-for-your-cart-keyboard .element-cst {
+  height: 101px;
+  left: 0;
+  top: 40px;
+  width: 190px;
+}
+
+.cart .overlap-group-4.product-0-just-for-your-cart-gamepad .element-cst {
+  height: 152px;
+  left: 9px;
+  top: 14px;
+  width: 172px;
+}
+
+.cart .overlap-group-4.product-0-cart-with-colour-chose .element-cst {
+  height: 129px;
+  left: 6px;
+  top: 26px;
+  width: 178px;
+}
+
+.cart .overlap-group-4.product-0-bestselling-bookself .element-cst {
+  height: 176px;
+  left: 25px;
+  top: 3px;
+  width: 140px;
+}
+
+.cart .overlap-group-4.product-0-beauty-product-no-discount .element-cst {
+  height: 129px;
+  left: 6px;
+  top: 26px;
+  width: 178px;
+}
+
+.cart .overlap-group-4.product-0-wishlist-cart-with-no-discount .element-cst {
+  height: 95px;
+  left: 0;
+  top: 47px;
+  width: 190px;
+}
+
+.cart .overlap-group-4.product-0-cart-hover .element-cst {
+  height: 129px;
+  left: 6px;
+  top: 26px;
+  width: 178px;
+}
+
+.cart .overlap-group-4.product-0-laptop-no-discount .element-cst {
+  height: 180px;
+  left: 9px;
+  top: 0;
+  width: 172px;
+}
+
+.cart .overlap-group-4.product-0-cart-with-no-discount .element-cst {
+  height: 129px;
+  left: 6px;
+  top: 26px;
+  width: 178px;
+}
+
+.cart .frame-16.product-4-bestselling-cooling-fan .element-5 {
+  color: #db4444;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-kids-car-with-color-choosing .element-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+}
+
+.cart .frame-16.product-4-dog-food-no-discount .element-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+}
+
+.cart .frame-16.product-4-soccer-boat-color-choosing .element-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+}
+
+.cart .frame-16.product-4-wishlist-cart-with-discount .element-5 {
+  color: #db4444;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-just-for-your-cart-bag .element-5 {
+  color: #db4444;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-product-5 .element-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+}
+
+.cart .frame-16.product-4-bestselling-guccibag .element-5 {
+  color: #db4444;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-dslr-camera-no-discount .element-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+}
+
+.cart .frame-16.product-4-gaming-control-color-choosing .element-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+}
+
+.cart .frame-16.product-4-bestselling-coat .element-5 {
+  color: #db4444;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-man-jacket-color-choosing .element-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+}
+
+.cart .frame-16.product-4-cart .element-5 {
+  color: #db4444;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-cart-with-colour-chose .element-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+}
+
+.cart .frame-16.product-4-beauty-product-no-discount .element-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+}
+
+.cart .frame-16.product-4-cart-hover .element-5 {
+  color: #db4444;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-laptop-no-discount .element-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+}
+
+.cart .frame-16.product-4-cart-with-no-discount .element-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+}
+
+.cart .frame-16.product-4-bestselling-cooling-fan .element-7 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  opacity: 0.5;
+  text-decoration: line-through;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-kids-car-with-color-choosing .element-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+}
+
+.cart .frame-16.product-4-dog-food-no-discount .element-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+}
+
+.cart .frame-16.product-4-soccer-boat-color-choosing .element-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+}
+
+.cart .frame-16.product-4-wishlist-cart-with-discount .element-7 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  opacity: 0.5;
+  text-decoration: line-through;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-just-for-your-cart-bag .element-7 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  opacity: 0.5;
+  text-decoration: line-through;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-product-5 .element-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+}
+
+.cart .frame-16.product-4-bestselling-guccibag .element-7 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  opacity: 0.5;
+  text-decoration: line-through;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-dslr-camera-no-discount .element-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+}
+
+.cart .frame-16.product-4-gaming-control-color-choosing .element-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+}
+
+.cart .frame-16.product-4-bestselling-coat .element-7 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  opacity: 0.5;
+  text-decoration: line-through;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-man-jacket-color-choosing .element-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+}
+
+.cart .frame-16.product-4-cart .element-7 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  opacity: 0.5;
+  text-decoration: line-through;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-cart-with-colour-chose .element-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+}
+
+.cart .frame-16.product-4-beauty-product-no-discount .element-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+}
+
+.cart .frame-16.product-4-cart-hover .element-7 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  opacity: 0.5;
+  text-decoration: line-through;
+  white-space: nowrap;
+}
+
+.cart .frame-16.product-4-laptop-no-discount .element-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+}
+
+.cart .frame-16.product-4-cart-with-no-discount .element-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+}
+
+.cart .frame-16.product-4-bestselling-cooling-fan .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-kids-car-with-color-choosing .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-dog-food-no-discount .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-jacket-with-wishlist .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-soccer-boat-color-choosing .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-wishlist-cart-with-discount .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-just-for-your-cart-monitor .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-just-for-your-cart-bag .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-product-5 .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-bestselling-guccibag .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-dslr-camera-no-discount .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-gaming-control-color-choosing .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-gamepad-wishlist .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-bestselling-coat .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-man-jacket-color-choosing .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-cart .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-just-for-your-cart-keyboard .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-just-for-your-cart-gamepad .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-cart-with-colour-chose .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-bestselling-bookself .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-beauty-product-no-discount .element-8 {
+  width: 40px;
+}
+
+.cart .frame-16.product-4-wishlist-cart-with-no-discount .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-cart-hover .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-laptop-no-discount .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-cart-with-no-discount .element-8 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-bestselling-cooling-fan .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-kids-car-with-color-choosing .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-dog-food-no-discount .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-jacket-with-wishlist .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-soccer-boat-color-choosing .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-wishlist-cart-with-discount .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-just-for-your-cart-monitor .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-just-for-your-cart-bag .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-product-5 .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-bestselling-guccibag .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-dslr-camera-no-discount .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-gaming-control-color-choosing .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-gamepad-wishlist .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-bestselling-coat .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-man-jacket-color-choosing .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-cart .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-just-for-your-cart-keyboard .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-just-for-your-cart-gamepad .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-cart-with-colour-chose .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-bestselling-bookself .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-beauty-product-no-discount .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-wishlist-cart-with-no-discount .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-cart-hover .element-9 {
+  width: 32px;
+}
+
+.cart .frame-16.product-4-laptop-no-discount .element-9 {
+  width: 40px;
+}
+
+.cart .frame-16.product-4-cart-with-no-discount .element-9 {
+  width: 32px;
+}

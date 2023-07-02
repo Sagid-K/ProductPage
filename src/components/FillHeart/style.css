@@ -1,0 +1,15 @@
+.fill-heart {
+  background-color: #ffffff;
+  border-radius: 17px;
+  height: 34px;
+  position: relative;
+  width: 34px;
+}
+
+.fill-heart .heart-small {
+  height: 24px !important;
+  left: 5px !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 24px !important;
+}

@@ -1,0 +1,1 @@
+export { IconCopyright } from "./IconCopyright";

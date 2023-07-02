@@ -1,0 +1,70 @@
+.header-wrapper {
+  align-items: center;
+  display: flex;
+  gap: 148px;
+  position: relative;
+  width: fit-content;
+}
+
+.header-wrapper .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 160px;
+  position: relative;
+  width: fit-content;
+}
+
+.header-wrapper .logo-instance {
+  min-width: 118px !important;
+  width: unset !important;
+}
+
+.header-wrapper .frame-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 48px;
+  position: relative;
+  width: fit-content;
+}
+
+.header-wrapper .header-instance {
+  min-width: 66px !important;
+  width: unset !important;
+}
+
+.header-wrapper .design-component-instance-node {
+  min-width: 48px !important;
+  width: unset !important;
+}
+
+.header-wrapper .header-2 {
+  min-width: 61px !important;
+  width: unset !important;
+}
+
+.header-wrapper .frame-6 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.header-wrapper .frame-7 {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.header-wrapper .icon-instance-node {
+  height: 32px !important;
+  min-width: 32px !important;
+  position: relative !important;
+}
+
+.header-wrapper .with-buy {
+  width: 32px !important;
+}

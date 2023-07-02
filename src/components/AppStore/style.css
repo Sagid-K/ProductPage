@@ -1,0 +1,14 @@
+.app-store {
+  background-color: #000000;
+  height: 40px;
+  position: relative;
+  width: 110px;
+}
+
+.app-store .download-appstore {
+  height: 35px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 105px;
+}

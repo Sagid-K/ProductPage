@@ -1,0 +1,15 @@
+.under-line {
+  height: 0;
+  opacity: 0.5;
+  position: relative;
+  width: 48px;
+}
+
+.under-line .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 48px;
+}
